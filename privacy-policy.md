@@ -1,99 +1,162 @@
 Privacy Policy
 Last Updated: March 2026
 
-PLEASE READ THIS DOCUMENT CAREFULLY. BY USING THE APPLICATION, YOU AGREE TO THIS PRIVACY POLICY.
+PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS. BY USING THE APPLICATION OR SERVICES, YOU ARE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
 
-Introduction
+This Privacy Policy applies to the mobile application All Media Fetcher (the “App”), and any related services (collectively, the “Services”).
 
-This Privacy Policy describes how All Media Fetcher (“we”, “our”, or “us”) collects, uses, and protects information when you use our application (“App”).
+This Privacy Policy is intended to inform you of how we collect, use, disclose, and protect your information.
 
-We are committed to protecting your privacy and ensuring transparency in how data is handled.
+We may update this Privacy Policy from time to time. Continued use of the App constitutes acceptance of such changes.
 
-Information We Collect
+---
 
-We collect minimal information necessary to operate the App:
+A. INFORMATION WE COLLECT
 
-1. Usage Data
+How We Collect Information
 
-* App interactions
-* Features used
-* Error logs (for debugging and improvement)
+We may collect information when you use the App, including when you:
+
+* Enter URLs into the App
+* Interact with App features
+* Use the App on your device
+
+The information collected includes:
+
+1. Technical and Usage Information
+
+* App usage data
+* Interaction patterns
+* Crash logs and diagnostics
 
 2. Device Information
 
-* Device type
-* Operating system version
-* Basic technical identifiers
+* Device model and type
+* Operating system
+* App version
+* System configuration
 
 3. Network Information
 
-* IP address (used temporarily for request processing)
+* IP address
+* Request timing and response data
 
-Important:
-We do NOT collect or store:
+4. User Input Data
 
-* Personal media files
-* URLs entered by users
-* Downloaded content
-* Sensitive personal information
+* URLs entered by the user (processed temporarily only)
 
-How We Use Information
+Important Notice:
+We do NOT store, retain, or maintain:
 
-We use collected data to:
+* User-entered URLs
+* Download history
+* Retrieved media content
+* Personally identifiable information such as name, phone number, or address
 
-* Provide and maintain app functionality
-* Improve performance and user experience
-* Fix bugs and technical issues
-* Ensure security and prevent misuse
+---
 
-Third-Party Services
+B. HOW WE USE INFORMATION
 
-The App uses third-party APIs to fetch publicly accessible media.
+We process information for the following purposes:
 
-* We do not control third-party services
-* Each third party operates under its own privacy policy
-* We do not store or redistribute data from these services
+* To provide and maintain the functionality of the App
+* To process user requests through third-party services
+* To improve performance and user experience
+* To analyze usage trends
+* To detect and prevent abuse or misuse
+* To ensure security and stability
 
-Data Storage
+---
 
-* The App does not store or cache user data on servers
-* Any downloaded media is saved locally on the user’s device
-* We do not maintain a database of user activity
+C. THIRD-PARTY SERVICES
 
-Cookies & Tracking
+The App utilizes third-party services and APIs to retrieve publicly accessible data.
 
-The App does not use cookies.
-Some third-party services may use tracking technologies as per their policies.
+* These third-party services operate independently
+* Their data practices are governed by their own privacy policies
+* We do not control, store, or manage third-party data
+* We are not responsible for their practices
 
-Children’s Privacy
+---
 
-This App is not intended for children under the age required by local laws.
-We do not knowingly collect data from children.
+D. DATA STORAGE AND RETENTION
 
-User Rights
+* The App does not maintain a central database of user data
+* All processing occurs in real-time
+* Retrieved content is not stored by us
+* Downloaded media is stored locally on the user’s device only
 
-You may:
+We retain minimal technical data only as long as necessary for operational purposes.
 
-* Stop using the App at any time
-* Control permissions via device settings
-* Contact us for any data-related concerns
+---
 
-Security
+E. COOKIES AND TRACKING TECHNOLOGIES
 
-We implement reasonable technical measures to protect data.
-However, no system is 100% secure.
+The App itself does not use cookies.
 
-Third-Party Links
+However, third-party services integrated into the App may use tracking technologies in accordance with their own policies.
 
-The App may interact with external links.
-We are not responsible for third-party content or privacy practices.
+---
 
-Changes to This Policy
+F. SECURITY
 
-We may update this Privacy Policy at any time.
-Continued use of the App means acceptance of updates.
+We implement reasonable technical and organizational measures to protect information.
 
-Contact Us
+However:
 
-If you have questions, contact:
+* No system is completely secure
+* Transmission of data is at your own risk
+
+---
+
+G. CHILDREN’S PRIVACY
+
+The App is not directed toward individuals below the minimum legal age required in their jurisdiction.
+
+We do not knowingly collect personal data from children.
+
+---
+
+H. USER RIGHTS
+
+Depending on applicable laws, you may have the right to:
+
+* Access your data
+* Request correction or deletion
+* Object to processing
+* Withdraw consent
+
+Since we do not store personal data, such requests may be limited in scope.
+
+---
+
+I. THIRD-PARTY LINKS
+
+The App may interact with external links or resources.
+
+We are not responsible for the content or privacy practices of such third parties.
+
+---
+
+J. LEGAL DISCLOSURE
+
+We may disclose information:
+
+* To comply with legal obligations
+* To enforce our rights
+* To protect users or systems
+
+---
+
+K. CHANGES TO THIS POLICY
+
+We reserve the right to modify this Privacy Policy at any time.
+
+Changes will be effective upon posting.
+
+---
+
+L. CONTACT
+
+If you have questions regarding this Privacy Policy, contact:
 [Your Email Here]
